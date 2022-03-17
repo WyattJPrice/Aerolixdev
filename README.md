@@ -1,2 +1,1 @@
-Hello I am wyatt Price. I am a young developer that is experianced with web design.
-i am learning python
+[![Aerolixdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerolixdev)]

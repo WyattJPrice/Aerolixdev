@@ -2,5 +2,5 @@
 
 [📕My Websites👍](https://wysitehome.netlify.app/)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aerolixdev&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerolixdev)](https://github.com/aerolixdev/Aerolixdev)
 
